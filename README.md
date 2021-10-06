@@ -1,2 +1,5 @@
-# Desafio-Dio-Git-GitHub
-Criação de um repositório para praticar conceitos do git
+# Desafio DIO de Git/GitHub
+A ideia é criar um repositório para praticar conceitos do git.
+
+## Lista de Projetos
+
